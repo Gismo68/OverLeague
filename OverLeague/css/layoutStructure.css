@@ -1,0 +1,52 @@
+body{
+    font-size: 15px;
+    font-family: "Roboto",Helvetica Neue,Helvetica,Arial,sans-serif;
+    background-color: #0E0E0E;
+}
+
+.navbar{
+    padding: 0 0 0 0;
+}
+
+.navbar-brand{
+    background-color: #F89C2D;
+}
+
+.bg-overwatch{
+    background-color: #F89C2D;
+}
+
+.dropdown-menu{
+    margin: 1.120rem 0px 0px;;
+}
+
+.dropdown-menu.logos-menu
+{
+    width: 46rem;
+}
+
+.center{
+    text-align: center;
+}
+
+.font-menu{
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.lien-color{
+    color:#0E0E0E;
+}
+
+#wrapper{
+    width: 80%;
+    min-height: 100%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 4.59rem;
+    background-image: url("../Images/OWL-LBG.jpg")
+}
+
+.carousel-caption h5{
+    color: #F89C2D;
+}

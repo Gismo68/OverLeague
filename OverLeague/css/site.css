@@ -1,0 +1,117 @@
+.BostonUprising_Primary{
+    background-color: #174B97;
+}
+
+.BostonUprising_Second{
+    background-color: #EEDF00;
+}
+
+.DallasFuel_Primary{
+    background-color: #0B233F;
+}
+
+.DallasFuel_Second{
+    background-color: #0071CD;
+}
+
+.FloridaMayhem_Primary{
+    background-color: #FEDC01;
+}
+
+.FloridaMayhem_Second{
+    background-color: #AF282F;
+}
+
+.HoustonOutlaws_Primary{
+    background-color: #96CA4E;
+}
+
+.HoustonOutlaws_Second{
+    background-color: #000000;
+}
+
+.LondonSpitfire_Primary{
+    background-color: #59CAE8;
+}
+
+.LondonSpitfire_Second{
+    background-color: #FF8201;
+}
+
+.LosAngelesGladiators_Primary{
+    background-color: #381360;
+}
+
+.LosAngelesGladiators_Second{
+    background-color: #000000;
+}
+
+.LosAngelesValiant_Primary{
+    background-color: #2A7230;
+}
+
+.LosAngelesValiant_Second{
+    background-color: #000000;
+}
+
+.NewYorkExcelsior_Primary{
+    background-color: #181C39;
+}
+
+.NewYorkExcelsior_Second{
+    background-color: #2B58E9;
+}
+
+.PhiladelphiaFusion_Primary{
+    background-color: #F89D2A;
+}
+
+.PhiladelphiaFusion_Second{
+    background-color: #000000;
+}
+
+.SanFranciscoShock_Primary{
+    background-color: #FC4C01;
+}
+
+.SanFranciscoShock_Second{
+    background-color: #60636A;
+}
+
+.SeoulDynasty_Primary{
+    background-color: #000000;
+}
+
+.SeoulDynasty_Second{
+    background-color: #AC8A00;
+}
+
+.ShanghaiDragons_Primary{
+    background-color: #D22730;
+}
+
+.ShanghaiDragons_Second{
+    background-color: #000000;
+}
+
+.White-Little{
+    color:#ffffff;
+    font-size: 14px;
+}
+
+.White-Strong{
+    color:#ffffff;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.Black-Little{
+    color:#000000;
+    font-size: 14px;
+}
+
+.Black-Strong{
+    color:#000000;
+    font-size: 18px;
+    font-weight: bold;
+}
